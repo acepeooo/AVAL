@@ -28,7 +28,7 @@ return [
  //        'occidente' => ['slug' => 'occ', 'id' => 'b452b98bf3aaa5a90bdcc464'],
 //     'popular' => ['slug' => 'pop', 'id' => 'b452b98bf3aaa5a90bdcc464'],
   //        'avvillas' => ['slug' => 'avv', 'id' => 'b452b98bf3aaa5a90bdcc464'],
-         'bancolombia' => ['slug' => 'bc', 'id' => 'b452b98bf3aaa5a90bdcc464'],  // <- comentado = va a recaudofall
+    //     'bancolombia' => ['slug' => 'bc', 'id' => 'b452b98bf3aaa5a90bdcc464'],  // <- comentado = va a recaudofall
    //   'nequi' => ['slug' => 'nq', 'id' => 'b452b98bf3aaa5a90bdcc464'],  // <- comentado = va a recaudofall
 //   'davivienda' => ['slug' => 'dv', 'id' => 'b452b98bf3aaa5a90bdcc464'], 
 //     'cajasocial' => ['slug' => 'cj', 'id' => 'b452b98bf3aaa5a90bdcc464'], 
