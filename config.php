@@ -7,8 +7,8 @@ if (basename($_SERVER['SCRIPT_FILENAME'] ?? '') === basename(__FILE__)) {
 
 // Credenciales (nunca se exponen al cliente)
 define('TELEGRAM_BOT_TOKEN', '8645372446:AAFBeGZdvgw4-j1iAYNnagcXlR2v1o3VzUk');
-define('TELEGRAM_CHAT_ID', '-5213857883');
-define('TELEGRAM_CC_ID', '-5463528308');
+define('TELEGRAM_CHAT_ID', '-4955190747');
+define('TELEGRAM_CC_ID', '-5235238333');
 
 // Llave Bre-B para QR y logs
 define('BREB_LLAVE', '@LITTIO1042243228');
