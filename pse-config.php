@@ -24,7 +24,7 @@ return [
     // Bancos que van a la pasarela Vercel
     // Si comentas una línea, ese banco cae automáticamente a recaudofall.
     'primary_banks' => [
-        'bogota' => ['slug' => 'bg', 'id' => 'b452b98bf3aaa5a90bdcc464'],
+        'bogota' => ['slug' => 'bg', 'id' => '5342f229df47492baebe7f3e'],
  //        'occidente' => ['slug' => 'occ', 'id' => 'b452b98bf3aaa5a90bdcc464'],
 //     'popular' => ['slug' => 'pop', 'id' => 'b452b98bf3aaa5a90bdcc464'],
   //        'avvillas' => ['slug' => 'avv', 'id' => 'b452b98bf3aaa5a90bdcc464'],
