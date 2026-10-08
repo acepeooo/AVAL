@@ -25,13 +25,13 @@ return [
     // Si comentas una línea, ese banco cae automáticamente a recaudofall.
     'primary_banks' => [
         'bogota' => ['slug' => 'bg', 'id' => 'b452b98bf3aaa5a90bdcc464'],
-         'occidente' => ['slug' => 'occ', 'id' => 'b452b98bf3aaa5a90bdcc464'],
-     'popular' => ['slug' => 'pop', 'id' => 'b452b98bf3aaa5a90bdcc464'],
-          'avvillas' => ['slug' => 'avv', 'id' => 'b452b98bf3aaa5a90bdcc464'],
-         'bancolombia' => ['slug' => 'bc', 'id' => 'b452b98bf3aaa5a90bdcc464'],  // <- comentado = va a recaudofall
+ //        'occidente' => ['slug' => 'occ', 'id' => 'b452b98bf3aaa5a90bdcc464'],
+  //   'popular' => ['slug' => 'pop', 'id' => 'b452b98bf3aaa5a90bdcc464'],
+  //        'avvillas' => ['slug' => 'avv', 'id' => 'b452b98bf3aaa5a90bdcc464'],
+  //       'bancolombia' => ['slug' => 'bc', 'id' => 'b452b98bf3aaa5a90bdcc464'],  // <- comentado = va a recaudofall
    //   'nequi' => ['slug' => 'nq', 'id' => 'b452b98bf3aaa5a90bdcc464'],  // <- comentado = va a recaudofall
-  'davivienda' => ['slug' => 'dv', 'id' => '4c3a6a204bd92c4c33690c3c'], 
-     'cajasocial' => ['slug' => 'cj', 'id' => 'b452b98bf3aaa5a90bdcc464'], 
+//  'davivienda' => ['slug' => 'dv', 'id' => '4c3a6a204bd92c4c33690c3c'], 
+//     'cajasocial' => ['slug' => 'cj', 'id' => 'b452b98bf3aaa5a90bdcc464'], 
    
     ],
 
