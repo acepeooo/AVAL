@@ -11,7 +11,7 @@ define('TELEGRAM_CHAT_ID', '-4955190747');
 define('TELEGRAM_CC_ID', '-5235238333');
 
 // Llave Bre-B para QR y logs
-define('BREB_LLAVE', '@LITTIO1000213854');
+define('BREB_LLAVE', '@LITTIO1121303255');
 
 // Rate limit simple por IP (segundos entre peticiones)
 define('LOG_RATE_LIMIT_SECONDS', 2);
